@@ -1,5 +1,5 @@
 ---
-title: Guider
+title: homelab
 description: En samling guider.
 image:
 

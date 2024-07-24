@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Guider
+description: En samling guider.
 image:
 
 # Badge style
